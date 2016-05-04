@@ -1,0 +1,6 @@
+com/cisco/training/cmad/util/MongoDBUtil.class
+com/cisco/training/cmad/handler/UserManager.class
+com/cisco/training/cmad/handler/BlogManager.class
+com/cisco/training/cmad/dto/BlogDTO.class
+com/cisco/training/cmad/dto/UserDTO.class
+com/cisco/training/cmad/verticles/BootStrapVerticle.class
