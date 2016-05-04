@@ -1,6 +1,0 @@
-/opt/CMAD_TRAINING/cmadBlog/src/main/java/com/cisco/training/cmad/handler/BlogManager.java
-/opt/CMAD_TRAINING/cmadBlog/src/main/java/com/cisco/training/cmad/dto/BlogDTO.java
-/opt/CMAD_TRAINING/cmadBlog/src/main/java/com/cisco/training/cmad/util/MongoDBUtil.java
-/opt/CMAD_TRAINING/cmadBlog/src/main/java/com/cisco/training/cmad/dto/UserDTO.java
-/opt/CMAD_TRAINING/cmadBlog/src/main/java/com/cisco/training/cmad/handler/UserManager.java
-/opt/CMAD_TRAINING/cmadBlog/src/main/java/com/cisco/training/cmad/verticles/BootStrapVerticle.java
